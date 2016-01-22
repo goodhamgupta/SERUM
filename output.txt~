@@ -1,0 +1,82 @@
+-----------------------------------------------------------------------------------------
+Time OUT 	 Time in 	 Dur(s) 	 User 	 Machine 	 Software
+-----------------------------------------------------------------------------------------
+11:00:04 	   11:14:14 	   850 	   user1 	   rw05 	   motion_dyn_recurdyn	
+
+11:00:05 	   11:14:05 	   840 	   user1 	   rw05 	   nx_ftk	
+
+11:02:09 	   11:02:12 	   3 	   user2 	   TER105 	   features_modeling	
+
+11:05:03 	   11:35:03 	   1800    user3 	   TER302 	   gateway	
+
+11:05:23 	   11:35:23 	   1800    user3 	   TER302 	   solid_modeling	
+
+11:08:16 	   11:08:31 	   15 	   user4 	   ds06 	   A026G	
+
+11:08:16 	   11:08:31 	   15 	   user4 	   ds06 	   A026G_gateway	
+
+11:09:14 	   11:09:28 	   14 	   user2 	   TER105 	   features_modeling	
+
+11:09:36 	   11:09:49 	   13 	   user2 	   TER105 	   drafting	
+
+11:09:49 	   11:09:36 	   13 	   user2 	   TER105 	   solid_modeling	
+
+11:10:06 	   11:10:36 	   30 	   user21 	   TER309 	   nx_freeform_1	
+
+11:12:58 	   11:13:06 	   112 	   user21 	   TER309 	   features_modeling	
+
+11:13:51 	   11:13:51 	   0 	   user4 	   ds06 	   nx_space_therm_solv	
+
+11:36:46 	   11:37:05 	   101 	   user23 	   TER308 	   features_modeling	
+
+11:37:44 	   11:38:23 	   81 	   user21 	   TER309 	   features_modeling	
+
+11:39:01 	   11:39:02 	   1 	   user21 	   TER309 	   features_modeling	
+
+11:39:07 	   11:39:42 	   35 	   user24 	   TER206 	   gateway	
+
+11:39:40 	   11:39:41 	   1 	   user21 	   TER309 	   features_modeling	
+
+11:39:56 	   11:40:11 	   105 	   user21 	   TER309 	   features_modeling	
+
+11:41:34 	   11:41:34 	   0 	   user21 	   TER309 	   features_modeling	
+
+11:41:37 	   11:41:52 	   15 	   user23 	   TER308 	   features_modeling	
+
+11:43:00 	   11:43:08 	   8 	   user21 	   TER309 	   features_modeling	
+
+
+
+---------------------------GROUP 1-------------------------------
+
+-----------------------------------------------------------------------------------------
+Time OUT 	 Time in 	 Dur(s) 	 User 	 Machine 	 Software
+-----------------------------------------------------------------------------------------
+11:00:04	11:14:14	850	user1	rw05	motion_dyn_recurdyn	 	
+11:00:05	11:14:05	840	user1	rw05	nx_ftk	 	
+11:02:09	11:02:12	3	user2	TER105	features_modeling	 	
+11:05:03	11:35:03	1800	user3	TER302	gateway	 	
+11:05:23	11:35:23	1800	user3	TER302	solid_modeling	 	
+11:08:16	11:08:31	15	user4	ds06	A026G	 	
+11:08:16	11:08:31	15	user4	ds06	A026G_gateway	 	
+11:09:14	11:09:28	14	user2	TER105	features_modeling	 	
+11:09:36	11:09:49	13	user2	TER105	drafting	 	
+11:09:49	11:09:36	13	user2	TER105	solid_modeling	 	
+11:13:51	11:13:51	0	user4	ds06	nx_space_therm_solv	 	
+
+---------------------------GROUP 2-------------------------------
+
+-----------------------------------------------------------------------------------------
+Time OUT 	 Time in 	 Dur(s) 	 User 	 Machine 	 Software
+-----------------------------------------------------------------------------------------
+11:10:06	11:10:36	30	user21	TER309	nx_freeform_1	
+11:12:58	11:13:06	112	user21	TER309	features_modeling	
+11:36:46	11:37:05	101	user23	TER308	features_modeling	
+11:37:44	11:38:23	81	user21	TER309	features_modeling	
+11:39:01	11:39:02	1	user21	TER309	features_modeling	
+11:39:07	11:39:42	35	user24	TER206	gateway	
+11:39:40	11:39:41	1	user21	TER309	features_modeling	
+11:39:56	11:40:11	105	user21	TER309	features_modeling	
+11:41:34	11:41:34	0	user21	TER309	features_modeling	
+11:41:37	11:41:52	15	user23	TER308	features_modeling	
+11:43:00	11:43:08	8	user21	TER309	features_modeling	

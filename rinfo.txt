@@ -1,0 +1,10 @@
+11:00:04 (ugslmd) OUT: "motion_dyn_recurdyn" /user1@rw05
+11:00:05 (ugslmd) OUT: "nx_ftk" /user2@rw05
+11:02:09 (ugslmd) OUT: "features_modeling" /user3@TER105
+11:02:09 (ugslmd) OUT: "features_modeling" /user3@TER105
+11:02:09 (ugslmd) OUT: "features_modeling" /user3@TER105
+11:02:12 (ugslmd) IN: "features_modeling" /user3@TER105
+11:09:28 (ugslmd) IN: "nx_ftk" /user2@rw05
+11:09:36 (ugslmd) IN: "motion_dyn_recurdyn" /user1@rw05
+11:09:36 (ugslmd) IN: "features_modeling" /user1@rw05
+

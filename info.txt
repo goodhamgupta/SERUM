@@ -1,0 +1,52 @@
+11:00:04 (ugslmd) OUT: "motion_dyn_recurdyn" /user1@rw05
+11:00:05 (ugslmd) OUT: "nx_ftk" /user1@rw05
+11:02:09 (ugslmd) OUT: "features_modeling" /user2@TER105
+11:02:12 (ugslmd) IN: "features_modeling" /user2@TER105
+11:05:03 (ugslmd) OUT: "gateway" /user3@TER302
+11:05:23 (ugslmd) OUT: "solid_modeling" /user3@TER302
+11:08:16 (ugslmd) OUT: "A026G" /user4@ds06
+11:08:16 (ugslmd) OUT: "A026G_gateway" /user4@ds06
+11:08:31 (ugslmd) IN: "A026G" /user4@ds06
+11:08:31 (ugslmd) IN: "A026G_gateway" /user4@ds06
+11:09:14 (ugslmd) OUT: "features_modeling" /user2@TER105
+11:09:28 (ugslmd) IN: "features_modeling" /user2@TER105
+11:09:36 (ugslmd) IN: "solid_modeling" /user2@TER105
+11:09:36 (ugslmd) OUT: "drafting" /user2@TER105
+11:09:49 (ugslmd) IN: "drafting" /user2@TER105
+11:09:49 (ugslmd) OUT: "solid_modeling" /user2@TER105
+11:10:06 (ugslmd) OUT: "nx_freeform_1" /user21@TER309
+11:10:36 (ugslmd) IN: "nx_freeform_1" /user21@TER309
+11:11:19 (ugslmd) IN: "nx_space_therm_solv" /user22@ds06
+11:12:58 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:13:06 (ugslmd) IN: "features_modeling" /user21@TER309
+11:13:51 (ugslmd) UNSUPPORTED: "A026G_nx_thermal_adv_solv" (PORT_AT_HOST_PLUS   ) /user4@ds06  (License server system does not support this feature. (-18,327))
+11:13:51 (ugslmd) UNSUPPORTED: "nx_thermal_adv_solv" (PORT_AT_HOST_PLUS   ) /user4@ds06  (License server system does not support this feature. (-18,327))
+11:13:51 (ugslmd) UNSUPPORTED: "A026G_nx_space_therm_solv" (PORT_AT_HOST_PLUS   ) /user4@ds06  (License server system does not support this feature. (-18,327))
+11:13:51 (ugslmd) OUT: "nx_space_therm_solv" /user4@ds06
+11:13:51 (ugslmd) IN: "nx_space_therm_solv" /user4@ds06
+11:14:05 (ugslmd) IN: "nx_ftk" /user1@rw05
+11:14:14 (ugslmd) IN: "motion_dyn_recurdyn" /user1@rw05
+11:14:25 (ugslmd) OUT: "nx_space_therm_solv" /user4@ds06
+11:14:47 (ugslmd) OUT: "nx_freeform_1" /user21@TER309
+11:36:46 (ugslmd) OUT: "features_modeling" /user23@TER308
+11:37:05 (ugslmd) IN: "features_modeling" /user23@TER308
+11:37:44 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:38:23 (ugslmd) IN: "features_modeling" /user21@TER309
+11:39:01 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:39:02 (ugslmd) IN: "features_modeling" /user21@TER309
+11:39:07 (ugslmd) OUT: "gateway" /user24@TER206
+11:39:40 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:39:41 (ugslmd) IN: "features_modeling" /user21@TER309
+11:39:42 (ugslmd) IN: "gateway" /user24@TER206
+11:39:56 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:40:11 (ugslmd) IN: "features_modeling" /user21@TER309
+11:41:34 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:41:34 (ugslmd) IN: "features_modeling" /user21@TER309
+11:41:37 (ugslmd) OUT: "features_modeling" /user23@TER308
+11:41:52 (ugslmd) IN: "features_modeling" /user23@TER308
+11:43:00 (ugslmd) OUT: "features_modeling" /user21@TER309
+11:43:08 (ugslmd) IN: "features_modeling" /user21@TER309
+11:35:03 (ugslmd) IN: "gateway" /user3@TER302
+11:35:23 (ugslmd) IN: "solid_modeling" /user3@TER302
+
+
