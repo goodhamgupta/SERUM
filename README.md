@@ -1,5 +1,5 @@
 # SERUM
-SERUM is a simple System Resources Monitor coded in shell(BASH). 
+SERUM(unsuitable acronym) is a simple System Resources Monitor coded in shell(BASH). 
 ****************************************************************************************************************************************
                                                       SERUM
 ****************************************************************************************************************************************
